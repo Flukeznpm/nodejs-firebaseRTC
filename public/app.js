@@ -1,6 +1,6 @@
 mdc.ripple.MDCRipple.attachTo(document.querySelector('.mdc-button'));
 
-// * TURN server
+// * STUN server
 const configuration = {
   iceServers: [
     {
